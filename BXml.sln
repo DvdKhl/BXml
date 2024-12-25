@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BXml", "BXml\BXml.csproj", "{C8EBDBDF-C210-4B77-8B8A-C61B797AD78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BXml.Example", "BXml.Example\BXml.Example.csproj", "{AE1C1C45-CAD5-4EED-BFAB-53B9EFF34C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8EBDBDF-C210-4B77-8B8A-C61B797AD78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EBDBDF-C210-4B77-8B8A-C61B797AD78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EBDBDF-C210-4B77-8B8A-C61B797AD78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EBDBDF-C210-4B77-8B8A-C61B797AD78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1C1C45-CAD5-4EED-BFAB-53B9EFF34C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1C1C45-CAD5-4EED-BFAB-53B9EFF34C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1C1C45-CAD5-4EED-BFAB-53B9EFF34C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1C1C45-CAD5-4EED-BFAB-53B9EFF34C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3CE8745-91E5-42F3-ABB2-C8DDE8D85712}
+	EndGlobalSection
+EndGlobal
